@@ -1,2 +1,2 @@
 # xmmx_letscraft
-Version Checker for [VORP] Let's Craft Script
+Version Checker for Let's Craft Script - RedM | VORP Framework
